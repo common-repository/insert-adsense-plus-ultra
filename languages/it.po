@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adsense Plus Ultra\n"
+"POT-Creation-Date: 2019-12-15 12:02+0100\n"
+"PO-Revision-Date: 2019-12-15 12:04+0100\n"
+"Last-Translator: paolo\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__(\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: lingua.php\n"
+"X-Poedit-SearchPath-1: src/APU/SettingsPage.php\n"
+"X-Poedit-SearchPath-2: src/APU/WpSubPage.php\n"
+
+#: lingua.php:3
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: lingua.php:5
+msgid "After enabling, you can enter the code provided by Google"
+msgstr "Una volta abilitato, potrai inserire il codice fornito da Google"
+
+#: lingua.php:6
+msgid "Before proceeding it is always necessary to enable advertising"
+msgstr "Prima di procedere è necessario abilitare gli annunci"
+
+#: lingua.php:7
+msgid "No show ads for logged users (easy way for avoid auto click)"
+msgstr ""
+"Non mostre le pubblicità agli utenti connessi (modo semplice per evitare "
+"clic fraudolenti)"
+
+#: lingua.php:8
+msgid ""
+"Enable Adsense Plus Ultra only for admin or for those who can manage plugins"
+msgstr ""
+"Abilita Adsense Plus Ultra solo per gli amministratori o per coloro che "
+"possono gestire i plugin"
+
+#: lingua.php:9
+msgid "Possibility to enable "
+msgstr "Possibilità di abilitare "
+
+#: lingua.php:10
+msgid ""
+"Possibility to enable Adsense Plus Ultra plugin only for admin or for those "
+"who can manage plugins."
+msgstr ""
+"Possibilità di abilitare il Plugin Adsense Plus Ultra solo per gli "
+"amministratori o in genere, per coloro che sono abilitati a gestire i plugin."
+
+#: lingua.php:11
+msgid ""
+"Ads for single post: you can add you Google Adsense code before post "
+"content, insede post content (after second &lt;p&gt; tag), after post content"
+msgstr ""
+"Annunci per singolo articolo: puoi aggiungere il tuo codice di Google "
+"Adsense prima del tuo articolo, all'interno dell'articolo (dopo il secondo "
+"&lt;p&gt; tag), al termine dell'articolo"
+
+#: lingua.php:12
+msgid "First commit of the plugin"
+msgstr "Prima consegna del plugin"
+
+#: lingua.php:13
+msgid "No. Work only with Google Adsense code."
+msgstr "No. Funziona solamente con il codice di Google Adsense."
+
+#: lingua.php:14
+msgid "This plugin can be used with codes other than Google Adsense?"
+msgstr ""
+"Questo plugin può essere utilizzato con codice diverso da quello di Google "
+"Adsense?"
+
+#: lingua.php:15
+msgid "Now, go to the settings menu of the plugin and follow the instructions"
+msgstr "Ora vai al menu delle impostazioni del plugin e segui le istruzioni"
+
+#: lingua.php:16
+msgid "Click Install Now and then activate the plugin"
+msgstr "Fai clic su Installa ora, quindi attiva il plug-in"
+
+#: lingua.php:17
+msgid "Browse for the plugin file (adsense-plus-ultra.zip)"
+msgstr "Cerca il file del plugin (insert-adsense-plus-ultra.zip)"
+
+#: lingua.php:18
+msgid "Click the upload tab"
+msgstr "Fai click sul tab dell'Upload"
+
+#: lingua.php:19
+msgid "Go to the Add New plugins screen in your WordPress admin area"
+msgstr ""
+"Vai alla schermata Aggiungi nuovi plugin nell'area di amministrazione di "
+"WordPress"
+
+#: lingua.php:21
+msgid "Basic configuration on Ads Tab"
+msgstr "Configurazione di base nella scheda Annunci"
+
+#: lingua.php:22
+msgid ""
+"Once you have installed the plugin there are some options that you need to "
+"configure first in the plugin settings Tab."
+msgstr ""
+"Una volta installato il plugin, ci sono alcune opzioni che devi configurare "
+"prima nella scheda delle impostazioni del plugin."
+
+#: lingua.php:23
+msgid ""
+"Fast and easy WordPress plugin to insert Google Adsense to all your pages "
+"and posts with the possibility of excluding other users from use."
+msgstr ""
+"Plugin WordPress semplice e veloce per inserire Google Adsense in tutte le "
+"tue pagine e post con la possibilità di escludere altri utenti dall'uso."
+
+#: lingua.php:24
+msgid "Automatic Ads: insert Google Adsense code insede tag"
+msgstr ""
+"Annunci automatici: inserisci il codice Google Adsense all'interno del tag"
+
+#: lingua.php:25
+msgid "Adsense Plus Ultra Usage"
+msgstr "Uso di Insert Adsense Plus Ultra"
+
+#: lingua.php:26
+msgid "Adsense Plus Ultra Features"
+msgstr "Funzioni di Adsense Plus Ultra"
+
+#: lingua.php:27
+msgid "Ads Tab screenshot-1.(png|jpg|jpeg|gif)."
+msgstr "Annunci Tab screenshot-1.(png|jpg|jpeg|gif)."
+
+#: lingua.php:28
+msgid ""
+"Fast and easy WordPress plugin to insert Google Adsense to all your pages "
+"and posts."
+msgstr ""
+"Plugin WordPress semplice e veloce per inserire Google Adsense in tutte le "
+"tue pagine e post."
+
+#: lingua.php:29
+msgid "Insert Adsense Plus Ultra"
+msgstr "Insert Adsense Plus Ultra"
+
+#: lingua.php:31
+msgid "https://www.beblogger.it"
+msgstr "https://www.beblogger.it"
+
+#: src/APU/SettingsPage.php:15
+msgid "Panel"
+msgstr "Pannello"
+
+#: src/APU/SettingsPage.php:27
+msgid ""
+"You can't use Adsense Plus Ultra. Contact your admin manager for enable the "
+"plugin"
+msgstr ""
+"Non puoi utilizzare AdSense Plus Ultra. Contatta il tuo admin Manager per "
+"abilitare il plugin"
+
+#: src/APU/SettingsPage.php:37
+msgid "Automatic Ads (all pages)"
+msgstr "Annunci automatici (tutte le pagine)"
+
+#: src/APU/SettingsPage.php:38
+msgid ""
+"Auto ads are a family of ad formats that offer a simple and innovative way "
+"for you to monetize your content. With Auto ads, you place the same piece of "
+"ad code once on each page. After you've added the code, Google automatically "
+"shows ads at optimal times when they're likely to perform well for you and "
+"provide a good experience for your users."
+msgstr ""
+"Gli annunci automatici sono una famiglia di formati di annunci che offrono "
+"un modo semplice ed innovativo per monetizzare i tuoi contenuti. Con gli "
+"annunci automatici, si posiziona la stessa parte del codice di annuncio una "
+"volta su ogni pagina. Dopo aver aggiunto il codice, Google mostra "
+"automaticamente gli annunci in tempi ottimali in modo da fornire una buona "
+"esperienza per i vostri utenti."
+
+#: src/APU/SettingsPage.php:38
+msgid " For more information visit"
+msgstr " Per maggiori informazioni visitate"
+
+#: src/APU/SettingsPage.php:48 src/APU/SettingsPage.php:113
+#: src/APU/SettingsPage.php:220 src/APU/SettingsPage.php:226
+msgid "Activate"
+msgstr "Attiva"
+
+#: src/APU/SettingsPage.php:50
+msgid "Enable automatic Adsense advertising"
+msgstr "Abilita la pubblicità Adsense automatica"
+
+#: src/APU/SettingsPage.php:72 src/APU/SettingsPage.php:147
+msgid "Paste Code"
+msgstr "Incolla il codice"
+
+#: src/APU/SettingsPage.php:74 src/APU/SettingsPage.php:149
+msgid "Wrong Code"
+msgstr "Codice errato"
+
+#: src/APU/SettingsPage.php:80 src/APU/SettingsPage.php:155
+msgid "Correct code example:"
+msgstr "Esempio di codice corretto:"
+
+#: src/APU/SettingsPage.php:83 src/APU/SettingsPage.php:158
+#: src/APU/SettingsPage.php:232
+msgid "Save Options"
+msgstr "Salva le opzioni"
+
+#: src/APU/SettingsPage.php:94
+msgid "Active Automatic Ads"
+msgstr "Attiva la pubblicità automatica"
+
+#: src/APU/SettingsPage.php:104
+msgid "Get your code on your Google AdSense account for Automatic Ads"
+msgstr ""
+"Ottieni il tuo codice sul tuo account Google AdSense per gli annunci "
+"automatici"
+
+#: src/APU/SettingsPage.php:108
+msgid "Ads (all single post)"
+msgstr "Annunci (solo sugli articoli)"
+
+#: src/APU/SettingsPage.php:109
+msgid ""
+"Here you can enter any type of code, we recommend using adaptable ads. You "
+"can also place inFeed and inArticle ads."
+msgstr ""
+"Qui puoi inserire qualsiasi codice di Adsense, vi raccomandiamo comunque di "
+"usare le unità pubblicitarie adattabili. Puoi inoltre usare le unità "
+"pubblicitarie inFeed e inArticle."
+
+#: src/APU/SettingsPage.php:109
+msgid "For more information visit"
+msgstr "Per maggiori informazioni visitate"
+
+#: src/APU/SettingsPage.php:115
+msgid "Enable Responsive Ads on single post"
+msgstr "Abilita sul singolo post i responsive Ads"
+
+#: src/APU/SettingsPage.php:137
+msgid "Position"
+msgstr "Posizione"
+
+#: src/APU/SettingsPage.php:140
+msgid "Before post"
+msgstr "Prima dell'articolo"
+
+#: src/APU/SettingsPage.php:141
+msgid "Inside post (after second &lt;p&gt;)"
+msgstr "Dentro l'articolo (dopo il secondo &lt;p&gt;)"
+
+#: src/APU/SettingsPage.php:142
+msgid "After post"
+msgstr "Dopo l'articolo"
+
+#: src/APU/SettingsPage.php:167
+msgid "Active Responsive Ads"
+msgstr "Attiva i responsive Ads"
+
+#: src/APU/SettingsPage.php:175
+msgid "Get your code on your Google AdSense account for Responsive Ads"
+msgstr ""
+"Ottieni il tuo codice dal tuo account di Google Adsense per i responsive Ads"
+
+#: src/APU/SettingsPage.php:180
+msgid "ShortCode - where you want ;)"
+msgstr "ShortCode - dove vuoi ;)"
+
+#: src/APU/SettingsPage.php:181
+msgid "Here you can create your shortcodes and insert them wherever you want."
+msgstr "Qui puoi creare il tuo shortcode e inserirlo dove vuoi."
+
+#: src/APU/SettingsPage.php:185
+msgid "[APU ad=\"1\"]"
+msgstr "[APU ad=\"1\"]"
+
+#: src/APU/SettingsPage.php:191
+msgid "[APU ad=\"2\"]"
+msgstr "[APU ad=\"2\"]"
+
+#: src/APU/SettingsPage.php:197
+msgid "[APU ad=\"3\"]"
+msgstr "[APU ad=\"3\"]"
+
+#: src/APU/SettingsPage.php:204
+msgid "Save ShortCode"
+msgstr "Salva ShortCode"
+
+#: src/APU/SettingsPage.php:215
+msgid "Special settings for Adsense Plus Ultra!"
+msgstr "Opzioni speciali per Adsense Plus Ultra!"
+
+#: src/APU/SettingsPage.php:222
+msgid "Enable Adsense Plus Ultra only for current user"
+msgstr "Abilita Adsense Plus Ultra solo per l'utente corrente"
+
+#: src/APU/SettingsPage.php:228
+msgid "No show ads for logged users"
+msgstr "Non mostre le pubblicità agli utenti connessi"
+
+#~ msgid "Ads Settings"
+#~ msgstr "Impostazioni Annunci"
+
+#~ msgid "Plugin Settings"
+#~ msgstr "Impostazioni plugin"
+
+#~ msgid "Standard responsive Adsense Ads."
+#~ msgstr "Standard responsive Adsense Ads."
